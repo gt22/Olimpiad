@@ -25,7 +25,6 @@ public class H {
 
 	private static final double TWO_PI = Math.PI * 2;
 	private static final double STEP = Math.toRadians(1e-4);
-	private static final double EPS = 1e-2;
 	private static Triangle[] triangles;
 
 	private static int getCoins(double rad) {
